@@ -1,0 +1,7530 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8243049",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Sebastià Gumà",
+        "oneway": "no",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7357732,
+            41.2251368
+          ],
+          [
+            1.7360503,
+            41.2246403
+          ],
+          [
+            1.7361163,
+            41.2245074
+          ],
+          [
+            1.7363622,
+            41.2240274
+          ],
+          [
+            1.7364303,
+            41.2239029
+          ]
+        ]
+      },
+      "id": "way/8243049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8243065",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda d'Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7333174,
+            41.2254103
+          ],
+          [
+            1.7334522,
+            41.225441
+          ],
+          [
+            1.7337083,
+            41.2256767
+          ],
+          [
+            1.7337464,
+            41.2257154
+          ],
+          [
+            1.7342976,
+            41.2262001
+          ],
+          [
+            1.7343729,
+            41.2262631
+          ],
+          [
+            1.7344959,
+            41.2263659
+          ],
+          [
+            1.7349792,
+            41.2267842
+          ],
+          [
+            1.7351875,
+            41.2269652
+          ],
+          [
+            1.7354819,
+            41.2272086
+          ],
+          [
+            1.7355983,
+            41.2272709
+          ],
+          [
+            1.7356179,
+            41.2273373
+          ],
+          [
+            1.7356188,
+            41.2273625
+          ],
+          [
+            1.7356442,
+            41.2274771
+          ]
+        ]
+      },
+      "id": "way/8243065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41289816",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Pujada del far de Sant Cristòfol",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "source": "survey",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7362685,
+            41.2171888
+          ],
+          [
+            1.7363843,
+            41.2171804
+          ],
+          [
+            1.7365426,
+            41.2171979
+          ],
+          [
+            1.736787,
+            41.2172498
+          ],
+          [
+            1.7370596,
+            41.2173025
+          ],
+          [
+            1.7372829,
+            41.2173502
+          ],
+          [
+            1.7389308,
+            41.2176892
+          ]
+        ]
+      },
+      "id": "way/41289816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43177450",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Ramon Muntaner",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7210232,
+            41.2151456
+          ],
+          [
+            1.7213349,
+            41.2152498
+          ],
+          [
+            1.7215362,
+            41.2153242
+          ]
+        ]
+      },
+      "id": "way/43177450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48874550",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla de Sant Jordi",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7295602,
+            41.2304643
+          ],
+          [
+            1.7295669,
+            41.2304093
+          ],
+          [
+            1.7295822,
+            41.2303545
+          ],
+          [
+            1.7297102,
+            41.2298119
+          ],
+          [
+            1.7298096,
+            41.2292808
+          ],
+          [
+            1.729983,
+            41.228731
+          ],
+          [
+            1.7301746,
+            41.2284266
+          ],
+          [
+            1.7304444,
+            41.2280562
+          ],
+          [
+            1.7304943,
+            41.227949
+          ],
+          [
+            1.7307122,
+            41.2275696
+          ],
+          [
+            1.7307712,
+            41.2273098
+          ],
+          [
+            1.7308251,
+            41.2269631
+          ],
+          [
+            1.7309211,
+            41.2265852
+          ],
+          [
+            1.7311134,
+            41.2263599
+          ],
+          [
+            1.7311963,
+            41.2263014
+          ],
+          [
+            1.7314942,
+            41.2260909
+          ],
+          [
+            1.7320279,
+            41.2257867
+          ],
+          [
+            1.7321486,
+            41.2257453
+          ],
+          [
+            1.7323526,
+            41.225629
+          ]
+        ]
+      },
+      "id": "way/48874550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48875891",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla de Sant Jordi",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7296383,
+            41.2338626
+          ],
+          [
+            1.7296526,
+            41.2338064
+          ],
+          [
+            1.7298981,
+            41.2334302
+          ],
+          [
+            1.7299291,
+            41.2332031
+          ],
+          [
+            1.7298898,
+            41.2329683
+          ],
+          [
+            1.7298248,
+            41.2328245
+          ],
+          [
+            1.7296832,
+            41.2326287
+          ],
+          [
+            1.7295264,
+            41.2324153
+          ],
+          [
+            1.7294065,
+            41.2321655
+          ],
+          [
+            1.7293874,
+            41.231992
+          ],
+          [
+            1.7293866,
+            41.2317118
+          ],
+          [
+            1.7294813,
+            41.2312856
+          ]
+        ]
+      },
+      "id": "way/48875891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48876875",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Ponent",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7147958,
+            41.2118842
+          ],
+          [
+            1.7147433,
+            41.2119441
+          ],
+          [
+            1.7146665,
+            41.2120069
+          ],
+          [
+            1.7145901,
+            41.2120421
+          ]
+        ]
+      },
+      "id": "way/48876875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49549589",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla de Sant Jordi",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7297546,
+            41.2307245
+          ],
+          [
+            1.7297349,
+            41.2308104
+          ],
+          [
+            1.729729,
+            41.2308493
+          ],
+          [
+            1.7297211,
+            41.2308876
+          ],
+          [
+            1.7295409,
+            41.2317387
+          ],
+          [
+            1.7295287,
+            41.2319199
+          ],
+          [
+            1.7295383,
+            41.2319777
+          ],
+          [
+            1.7295582,
+            41.2320977
+          ],
+          [
+            1.7296295,
+            41.2322483
+          ],
+          [
+            1.7297061,
+            41.2324099
+          ],
+          [
+            1.7297431,
+            41.2324636
+          ],
+          [
+            1.7298166,
+            41.2325703
+          ],
+          [
+            1.7299091,
+            41.2327173
+          ],
+          [
+            1.7300339,
+            41.2329155
+          ],
+          [
+            1.7300525,
+            41.232982
+          ],
+          [
+            1.7300803,
+            41.2331991
+          ],
+          [
+            1.7300242,
+            41.2334833
+          ],
+          [
+            1.7297554,
+            41.2339095
+          ],
+          [
+            1.7297555,
+            41.2339158
+          ]
+        ]
+      },
+      "id": "way/49549589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49875732",
+        "highway": "tertiary",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Marítim",
+        "oneway": "yes",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.733468,
+            41.2165499
+          ],
+          [
+            1.7337327,
+            41.2166706
+          ],
+          [
+            1.7347236,
+            41.2170373
+          ]
+        ]
+      },
+      "id": "way/49875732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49938961",
+        "change:lanes:backward": "not_left|yes",
+        "change:lanes:forward": "no",
+        "highway": "residential",
+        "lanes:backward": 2,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Josep Coroleu",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:backward": "left|through",
+        "turn:lanes:forward": "through",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7177238,
+            41.2238263
+          ],
+          [
+            1.7177958,
+            41.2237505
+          ],
+          [
+            1.7178329,
+            41.2237142
+          ],
+          [
+            1.7180071,
+            41.2235191
+          ]
+        ]
+      },
+      "id": "way/49938961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49938972",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Martí Torrents",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.733861,
+            41.217939
+          ],
+          [
+            1.733027,
+            41.2181204
+          ]
+        ]
+      },
+      "id": "way/49938972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76687987",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Puigcerdà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7293787,
+            41.2228698
+          ],
+          [
+            1.7294095,
+            41.2228123
+          ],
+          [
+            1.7294886,
+            41.2226646
+          ],
+          [
+            1.729609,
+            41.22244
+          ],
+          [
+            1.7296549,
+            41.2223542
+          ],
+          [
+            1.7298125,
+            41.2220601
+          ],
+          [
+            1.7298262,
+            41.2220345
+          ],
+          [
+            1.7298422,
+            41.222013
+          ],
+          [
+            1.7298704,
+            41.2219609
+          ]
+        ]
+      },
+      "id": "way/76687987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97282382",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer dels Boters",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7313798,
+            41.2168907
+          ],
+          [
+            1.7316063,
+            41.2164679
+          ]
+        ]
+      },
+      "id": "way/97282382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97507722",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Pere Riudor",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.733027,
+            41.2181204
+          ],
+          [
+            1.7322857,
+            41.2177698
+          ],
+          [
+            1.7313724,
+            41.2173974
+          ],
+          [
+            1.7304576,
+            41.217032
+          ]
+        ]
+      },
+      "id": "way/97507722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97896820",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Joan Ricart",
+        "oneway": "yes",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7373424,
+            41.2250271
+          ],
+          [
+            1.7371384,
+            41.2249684
+          ],
+          [
+            1.7366325,
+            41.2248112
+          ],
+          [
+            1.7360503,
+            41.2246403
+          ],
+          [
+            1.7354631,
+            41.2244594
+          ],
+          [
+            1.7346508,
+            41.2242191
+          ],
+          [
+            1.7344253,
+            41.2241254
+          ],
+          [
+            1.7342524,
+            41.2240488
+          ]
+        ]
+      },
+      "id": "way/97896820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98003527",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "carrer de la Restauració",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7257839,
+            41.2207395
+          ],
+          [
+            1.7258078,
+            41.2206834
+          ],
+          [
+            1.725828,
+            41.2206419
+          ],
+          [
+            1.7258406,
+            41.2206136
+          ],
+          [
+            1.7260927,
+            41.2202044
+          ],
+          [
+            1.7264844,
+            41.2194594
+          ],
+          [
+            1.7267376,
+            41.2189577
+          ]
+        ]
+      },
+      "id": "way/98003527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98060796",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Jaume Balmes",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "service": "driveway",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7208092,
+            41.2195987
+          ],
+          [
+            1.7207928,
+            41.2196873
+          ],
+          [
+            1.720707,
+            41.2197155
+          ],
+          [
+            1.7203807,
+            41.2197618
+          ],
+          [
+            1.7196502,
+            41.2198654
+          ],
+          [
+            1.7196328,
+            41.2198923
+          ],
+          [
+            1.7196032,
+            41.2199409
+          ]
+        ]
+      },
+      "id": "way/98060796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98206026",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Vilanoveta",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7369107,
+            41.2317242
+          ],
+          [
+            1.737513,
+            41.2317978
+          ],
+          [
+            1.737801,
+            41.2318301
+          ],
+          [
+            1.7380337,
+            41.2318398
+          ],
+          [
+            1.7383935,
+            41.2318404
+          ],
+          [
+            1.7385868,
+            41.2318251
+          ],
+          [
+            1.7389457,
+            41.2318075
+          ],
+          [
+            1.7393379,
+            41.2317721
+          ]
+        ]
+      },
+      "id": "way/98206026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98215652",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Camí de la Masia d'En Frederic",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7249192,
+            41.2284773
+          ],
+          [
+            1.7248454,
+            41.2285112
+          ],
+          [
+            1.7251887,
+            41.229191
+          ],
+          [
+            1.7251548,
+            41.2293146
+          ],
+          [
+            1.725121,
+            41.2294382
+          ],
+          [
+            1.7250929,
+            41.2295405
+          ],
+          [
+            1.7249068,
+            41.2301775
+          ],
+          [
+            1.7248767,
+            41.2302999
+          ]
+        ]
+      },
+      "id": "way/98215652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98258429",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:both": "no_stopping",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.740092,
+            41.2354269
+          ],
+          [
+            1.7400689,
+            41.2354729
+          ],
+          [
+            1.7400399,
+            41.2354834
+          ],
+          [
+            1.7399933,
+            41.2354692
+          ],
+          [
+            1.7398484,
+            41.2354201
+          ],
+          [
+            1.7393902,
+            41.2352727
+          ],
+          [
+            1.7389357,
+            41.2351278
+          ],
+          [
+            1.7388066,
+            41.2350854
+          ],
+          [
+            1.7386691,
+            41.2350497
+          ],
+          [
+            1.7386005,
+            41.2350542
+          ]
+        ]
+      },
+      "id": "way/98258429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98258449",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Josep Maria Bultó",
+        "oneway": "yes",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7346853,
+            41.2248266
+          ],
+          [
+            1.7349228,
+            41.2248856
+          ],
+          [
+            1.7351986,
+            41.2249644
+          ],
+          [
+            1.7355933,
+            41.2250848
+          ],
+          [
+            1.7357732,
+            41.2251368
+          ],
+          [
+            1.7363723,
+            41.2253145
+          ],
+          [
+            1.7369141,
+            41.2254731
+          ],
+          [
+            1.737165,
+            41.2255341
+          ]
+        ]
+      },
+      "id": "way/98258449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98604163",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Gas",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7299078,
+            41.217814
+          ],
+          [
+            1.7304318,
+            41.2170686
+          ],
+          [
+            1.7304576,
+            41.217032
+          ],
+          [
+            1.7304923,
+            41.2170026
+          ],
+          [
+            1.7307357,
+            41.2166138
+          ],
+          [
+            1.7308885,
+            41.2162791
+          ],
+          [
+            1.7309817,
+            41.2160793
+          ],
+          [
+            1.7310179,
+            41.2160045
+          ]
+        ]
+      },
+      "id": "way/98604163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990108",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Bernat de Vilamarí",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7242955,
+            41.214876
+          ],
+          [
+            1.7250131,
+            41.2151631
+          ]
+        ]
+      },
+      "id": "way/98990108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990129",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Jaume Balmes",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "service": "driveway",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7194706,
+            41.2196952
+          ],
+          [
+            1.7195665,
+            41.2196925
+          ],
+          [
+            1.7197584,
+            41.2196829
+          ],
+          [
+            1.72064,
+            41.2195491
+          ]
+        ]
+      },
+      "id": "way/98990129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990135",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda d'Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7359034,
+            41.2277029
+          ],
+          [
+            1.7360418,
+            41.2277616
+          ],
+          [
+            1.7361778,
+            41.2278035
+          ],
+          [
+            1.7367818,
+            41.2283265
+          ],
+          [
+            1.7375031,
+            41.2289571
+          ],
+          [
+            1.7376309,
+            41.2290873
+          ],
+          [
+            1.7376898,
+            41.2292193
+          ]
+        ]
+      },
+      "id": "way/98990135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990141",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Marcel·lina Jacas",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7246193,
+            41.2143758
+          ],
+          [
+            1.7242955,
+            41.214876
+          ],
+          [
+            1.7240258,
+            41.2153002
+          ],
+          [
+            1.7236496,
+            41.2159409
+          ],
+          [
+            1.7234054,
+            41.2161968
+          ],
+          [
+            1.7232015,
+            41.21633
+          ],
+          [
+            1.7230004,
+            41.2164237
+          ]
+        ]
+      },
+      "id": "way/98990141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990145",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Marítim",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7276103,
+            41.2150587
+          ],
+          [
+            1.727745,
+            41.214999
+          ],
+          [
+            1.7277993,
+            41.2149904
+          ],
+          [
+            1.727967,
+            41.2149952
+          ],
+          [
+            1.7312291,
+            41.2158095
+          ]
+        ]
+      },
+      "id": "way/98990145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990148",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda d'Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7376575,
+            41.229188
+          ],
+          [
+            1.7375579,
+            41.2291871
+          ],
+          [
+            1.7374072,
+            41.2290943
+          ],
+          [
+            1.7372649,
+            41.2289948
+          ],
+          [
+            1.7371501,
+            41.2288981
+          ],
+          [
+            1.7363186,
+            41.2281921
+          ],
+          [
+            1.7361565,
+            41.2280275
+          ],
+          [
+            1.7360611,
+            41.2279568
+          ],
+          [
+            1.7359401,
+            41.2279236
+          ],
+          [
+            1.7358867,
+            41.2278834
+          ]
+        ]
+      },
+      "id": "way/98990148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990149",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda d'Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7358867,
+            41.2278834
+          ],
+          [
+            1.7359089,
+            41.2278131
+          ],
+          [
+            1.7359552,
+            41.227743
+          ]
+        ]
+      },
+      "id": "way/98990149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990156",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Lluís de Requesens",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7231124,
+            41.2157931
+          ],
+          [
+            1.7234995,
+            41.2151749
+          ],
+          [
+            1.724145,
+            41.2141923
+          ]
+        ]
+      },
+      "id": "way/98990156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98990158",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Joaquim Blume",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7362481,
+            41.2296901
+          ],
+          [
+            1.7354899,
+            41.2292873
+          ],
+          [
+            1.7350048,
+            41.2290208
+          ],
+          [
+            1.7348501,
+            41.228938
+          ]
+        ]
+      },
+      "id": "way/98990158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100550268",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de l'Agricultura",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7461324,
+            41.2245237
+          ],
+          [
+            1.7460168,
+            41.2245128
+          ],
+          [
+            1.7458918,
+            41.2245338
+          ],
+          [
+            1.7457528,
+            41.2245712
+          ],
+          [
+            1.7455922,
+            41.224634
+          ],
+          [
+            1.7451272,
+            41.2247925
+          ],
+          [
+            1.745071,
+            41.2248117
+          ],
+          [
+            1.7449431,
+            41.2248518
+          ],
+          [
+            1.7448182,
+            41.2248856
+          ],
+          [
+            1.7442602,
+            41.225002
+          ],
+          [
+            1.7437245,
+            41.2250446
+          ],
+          [
+            1.7431336,
+            41.2250678
+          ],
+          [
+            1.7430758,
+            41.2250747
+          ],
+          [
+            1.7429853,
+            41.2250805
+          ]
+        ]
+      },
+      "id": "way/100550268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100550273",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig de la Fita",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7429178,
+            41.2251368
+          ],
+          [
+            1.7428562,
+            41.2252443
+          ],
+          [
+            1.7427597,
+            41.2253715
+          ],
+          [
+            1.7426279,
+            41.225539
+          ],
+          [
+            1.7424389,
+            41.2257807
+          ]
+        ]
+      },
+      "id": "way/100550273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100550274",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig de la Fita",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7420723,
+            41.2259817
+          ],
+          [
+            1.7426886,
+            41.2252083
+          ],
+          [
+            1.7427121,
+            41.2251762
+          ],
+          [
+            1.7427526,
+            41.2251069
+          ]
+        ]
+      },
+      "id": "way/100550274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100550286",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig de la Fita",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7429222,
+            41.2249572
+          ],
+          [
+            1.7429735,
+            41.2249489
+          ],
+          [
+            1.7430616,
+            41.2249392
+          ],
+          [
+            1.7434939,
+            41.2249206
+          ],
+          [
+            1.7439552,
+            41.2249045
+          ],
+          [
+            1.7441169,
+            41.2248801
+          ],
+          [
+            1.7445783,
+            41.2248074
+          ],
+          [
+            1.7447864,
+            41.2247538
+          ],
+          [
+            1.7448953,
+            41.2247073
+          ],
+          [
+            1.7449508,
+            41.2247069
+          ],
+          [
+            1.7450137,
+            41.2246863
+          ],
+          [
+            1.7450453,
+            41.2246759
+          ],
+          [
+            1.7457523,
+            41.2244445
+          ],
+          [
+            1.7459009,
+            41.2244174
+          ],
+          [
+            1.7460279,
+            41.2243943
+          ]
+        ]
+      },
+      "id": "way/100550286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197260",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Rasot",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.708262,
+            41.2233048
+          ],
+          [
+            1.7082096,
+            41.2233474
+          ],
+          [
+            1.7073349,
+            41.2241017
+          ],
+          [
+            1.7069323,
+            41.2245652
+          ],
+          [
+            1.7059706,
+            41.2254643
+          ],
+          [
+            1.7059567,
+            41.2254773
+          ],
+          [
+            1.7059239,
+            41.2255052
+          ]
+        ]
+      },
+      "id": "way/106197260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197505",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Joan Fuster",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7102622,
+            41.220703
+          ],
+          [
+            1.7102075,
+            41.2207578
+          ],
+          [
+            1.7100145,
+            41.2211302
+          ],
+          [
+            1.7097926,
+            41.221515
+          ],
+          [
+            1.7097687,
+            41.2215604
+          ],
+          [
+            1.7097345,
+            41.2216253
+          ],
+          [
+            1.7095348,
+            41.2219837
+          ],
+          [
+            1.709328,
+            41.2223617
+          ],
+          [
+            1.7092891,
+            41.222432
+          ],
+          [
+            1.7092478,
+            41.2225031
+          ],
+          [
+            1.7090202,
+            41.2229429
+          ],
+          [
+            1.7088162,
+            41.2233357
+          ],
+          [
+            1.7087794,
+            41.2234042
+          ],
+          [
+            1.7087561,
+            41.2234593
+          ]
+        ]
+      },
+      "id": "way/106197505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197509",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de les Atzavares",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7074522,
+            41.2203324
+          ],
+          [
+            1.7076075,
+            41.2203968
+          ],
+          [
+            1.7079338,
+            41.2206402
+          ],
+          [
+            1.7080278,
+            41.2207097
+          ],
+          [
+            1.7080804,
+            41.2207401
+          ],
+          [
+            1.7083321,
+            41.2209148
+          ],
+          [
+            1.7085122,
+            41.2210518
+          ],
+          [
+            1.708675,
+            41.2211124
+          ],
+          [
+            1.7094215,
+            41.221421
+          ],
+          [
+            1.7096929,
+            41.2215307
+          ],
+          [
+            1.7097687,
+            41.2215604
+          ],
+          [
+            1.7098588,
+            41.2216076
+          ],
+          [
+            1.7105737,
+            41.2218935
+          ],
+          [
+            1.7106304,
+            41.2219217
+          ],
+          [
+            1.7107527,
+            41.2219891
+          ]
+        ]
+      },
+      "id": "way/106197509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197512",
+        "highway": "residential",
+        "lanes": 1,
+        "maxspeed": 50,
+        "name": "Carrer del Gafarró",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7015599,
+            41.2185202
+          ],
+          [
+            1.7014399,
+            41.2186046
+          ],
+          [
+            1.7012669,
+            41.2187241
+          ],
+          [
+            1.7011212,
+            41.2188194
+          ],
+          [
+            1.7009813,
+            41.2189103
+          ],
+          [
+            1.7008024,
+            41.2190268
+          ],
+          [
+            1.7007239,
+            41.2190705
+          ],
+          [
+            1.7006717,
+            41.2191233
+          ]
+        ]
+      },
+      "id": "way/106197512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197514",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de l'Oreneta",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7015609,
+            41.2147483
+          ],
+          [
+            1.7013142,
+            41.2154747
+          ],
+          [
+            1.7012605,
+            41.2157733
+          ],
+          [
+            1.7012966,
+            41.2161004
+          ],
+          [
+            1.7015842,
+            41.2168473
+          ],
+          [
+            1.702151,
+            41.2177586
+          ],
+          [
+            1.7026771,
+            41.2184184
+          ],
+          [
+            1.7029014,
+            41.2186248
+          ],
+          [
+            1.7033796,
+            41.2189183
+          ],
+          [
+            1.7044741,
+            41.2195258
+          ],
+          [
+            1.7051873,
+            41.2199134
+          ]
+        ]
+      },
+      "id": "way/106197514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197519",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Pit-roig",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7000583,
+            41.2172166
+          ],
+          [
+            1.699852,
+            41.2172622
+          ],
+          [
+            1.6994566,
+            41.2173626
+          ],
+          [
+            1.6992728,
+            41.2174068
+          ],
+          [
+            1.6991828,
+            41.2174274
+          ],
+          [
+            1.6990819,
+            41.2174599
+          ]
+        ]
+      },
+      "id": "way/106197519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197520",
+        "highway": "residential",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de la Torre del Vallès",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7038147,
+            41.2201713
+          ],
+          [
+            1.7044741,
+            41.2195258
+          ],
+          [
+            1.7053914,
+            41.2186139
+          ],
+          [
+            1.7059332,
+            41.2179682
+          ],
+          [
+            1.7068881,
+            41.2165963
+          ]
+        ]
+      },
+      "id": "way/106197520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197521",
+        "highway": "residential",
+        "lanes": 1,
+        "maxspeed": 50,
+        "name": "Carrer de l'Alosa",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7008517,
+            41.220596
+          ],
+          [
+            1.7011094,
+            41.2203948
+          ],
+          [
+            1.70127,
+            41.2203014
+          ],
+          [
+            1.7015397,
+            41.220108
+          ],
+          [
+            1.701679,
+            41.2200082
+          ],
+          [
+            1.7018017,
+            41.2199256
+          ],
+          [
+            1.7020063,
+            41.2197906
+          ],
+          [
+            1.7021518,
+            41.2196961
+          ],
+          [
+            1.7022899,
+            41.2196113
+          ],
+          [
+            1.7024707,
+            41.2194969
+          ],
+          [
+            1.7025429,
+            41.2194593
+          ],
+          [
+            1.7026044,
+            41.2194276
+          ]
+        ]
+      },
+      "id": "way/106197521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197522",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Rossinyol",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7000366,
+            41.2184795
+          ],
+          [
+            1.7002311,
+            41.2184262
+          ],
+          [
+            1.7009191,
+            41.2181893
+          ],
+          [
+            1.7010488,
+            41.2181324
+          ],
+          [
+            1.7010958,
+            41.2181109
+          ]
+        ]
+      },
+      "id": "way/106197522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197524",
+        "highway": "residential",
+        "name": "Carrer del Colibrí",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7015609,
+            41.2147483
+          ],
+          [
+            1.7017205,
+            41.2146915
+          ],
+          [
+            1.7021822,
+            41.2146224
+          ],
+          [
+            1.7023484,
+            41.2145808
+          ],
+          [
+            1.7025479,
+            41.2145301
+          ],
+          [
+            1.7034334,
+            41.2141872
+          ]
+        ]
+      },
+      "id": "way/106197524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106197526",
+        "highway": "residential",
+        "name": "Carrer de la Cadernera",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7017205,
+            41.2146915
+          ],
+          [
+            1.7005187,
+            41.2141875
+          ],
+          [
+            1.6994423,
+            41.2137433
+          ]
+        ]
+      },
+      "id": "way/106197526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106580175",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Plaça de la Forca",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6933661,
+            41.2175491
+          ],
+          [
+            1.6934602,
+            41.2176358
+          ],
+          [
+            1.6935867,
+            41.2177121
+          ],
+          [
+            1.6937492,
+            41.2177684
+          ],
+          [
+            1.6939678,
+            41.2178052
+          ],
+          [
+            1.694059,
+            41.2178077
+          ],
+          [
+            1.6942211,
+            41.2177883
+          ],
+          [
+            1.6943709,
+            41.2177478
+          ],
+          [
+            1.6944751,
+            41.2177023
+          ],
+          [
+            1.6946422,
+            41.2175873
+          ],
+          [
+            1.6946847,
+            41.2175444
+          ],
+          [
+            1.694745,
+            41.2174531
+          ],
+          [
+            1.694788,
+            41.2173825
+          ],
+          [
+            1.6947982,
+            41.2173588
+          ]
+        ]
+      },
+      "id": "way/106580175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106580180",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Xartell",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6937809,
+            41.2165969
+          ],
+          [
+            1.6939128,
+            41.2165955
+          ],
+          [
+            1.6940422,
+            41.2165921
+          ],
+          [
+            1.6941179,
+            41.2165959
+          ],
+          [
+            1.69419,
+            41.2166048
+          ],
+          [
+            1.6943035,
+            41.2166289
+          ],
+          [
+            1.6943851,
+            41.216659
+          ],
+          [
+            1.6944779,
+            41.2166972
+          ],
+          [
+            1.6945825,
+            41.2167635
+          ],
+          [
+            1.6946648,
+            41.2168368
+          ],
+          [
+            1.6947202,
+            41.2169013
+          ],
+          [
+            1.6947647,
+            41.216969
+          ],
+          [
+            1.6947938,
+            41.2170344
+          ],
+          [
+            1.6948087,
+            41.2170869
+          ],
+          [
+            1.6948268,
+            41.2171922
+          ]
+        ]
+      },
+      "id": "way/106580180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106918106",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Gornal",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7170213,
+            41.2212758
+          ],
+          [
+            1.7172455,
+            41.2209173
+          ],
+          [
+            1.7175389,
+            41.2209591
+          ],
+          [
+            1.7181103,
+            41.2210428
+          ],
+          [
+            1.7187289,
+            41.2211431
+          ]
+        ]
+      },
+      "id": "way/106918106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106918107",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de les Roques del Pelut",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7116526,
+            41.2234123
+          ],
+          [
+            1.7117057,
+            41.2233378
+          ],
+          [
+            1.7121951,
+            41.2226505
+          ],
+          [
+            1.7122412,
+            41.2225938
+          ],
+          [
+            1.7127382,
+            41.2219129
+          ],
+          [
+            1.7127827,
+            41.2218488
+          ],
+          [
+            1.7128342,
+            41.2217798
+          ]
+        ]
+      },
+      "id": "way/106918107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106918110",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Canyelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7175389,
+            41.2209591
+          ],
+          [
+            1.7176494,
+            41.2206227
+          ]
+        ]
+      },
+      "id": "way/106918110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107379501",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "camí de la Masia d'en Frederic",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7248416,
+            41.2303673
+          ],
+          [
+            1.7248155,
+            41.2304745
+          ],
+          [
+            1.7248124,
+            41.2304877
+          ],
+          [
+            1.7246506,
+            41.2311752
+          ],
+          [
+            1.724533,
+            41.2317053
+          ],
+          [
+            1.7242742,
+            41.2326988
+          ]
+        ]
+      },
+      "id": "way/107379501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107488380",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla Arnau de Vilanova",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "left",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7044262,
+            41.2226556
+          ],
+          [
+            1.7044994,
+            41.2225773
+          ],
+          [
+            1.7052279,
+            41.2217973
+          ],
+          [
+            1.7052836,
+            41.2217378
+          ]
+        ]
+      },
+      "id": "way/107488380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107488381",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla Arnau de Vilanova",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7053834,
+            41.2218232
+          ],
+          [
+            1.7053454,
+            41.2218653
+          ],
+          [
+            1.7046387,
+            41.2226477
+          ],
+          [
+            1.704572,
+            41.2227216
+          ]
+        ]
+      },
+      "id": "way/107488381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115676343",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "service": "driveway",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7192849,
+            41.2284893
+          ],
+          [
+            1.7193936,
+            41.2284654
+          ],
+          [
+            1.7194153,
+            41.2284733
+          ],
+          [
+            1.7200185,
+            41.2287484
+          ],
+          [
+            1.7202955,
+            41.2288719
+          ],
+          [
+            1.7204635,
+            41.2289508
+          ],
+          [
+            1.7206013,
+            41.2290129
+          ],
+          [
+            1.7214228,
+            41.2293817
+          ]
+        ]
+      },
+      "id": "way/115676343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115676353",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7161031,
+            41.2271069
+          ],
+          [
+            1.7161736,
+            41.2270873
+          ],
+          [
+            1.7162429,
+            41.2270998
+          ],
+          [
+            1.7164784,
+            41.227212
+          ],
+          [
+            1.7167089,
+            41.2273244
+          ],
+          [
+            1.7167182,
+            41.2273286
+          ],
+          [
+            1.7168739,
+            41.2274006
+          ]
+        ]
+      },
+      "id": "way/115676353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115677992",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "surface": "paved",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7412522,
+            41.2336537
+          ],
+          [
+            1.7410427,
+            41.2335871
+          ],
+          [
+            1.7401462,
+            41.2332551
+          ],
+          [
+            1.7399141,
+            41.2331736
+          ],
+          [
+            1.7396761,
+            41.2330845
+          ],
+          [
+            1.7390738,
+            41.23287
+          ],
+          [
+            1.7388472,
+            41.2327862
+          ]
+        ]
+      },
+      "id": "way/115677992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115677999",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "surface": "paved",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7364568,
+            41.2318082
+          ],
+          [
+            1.7365569,
+            41.2318681
+          ],
+          [
+            1.7367406,
+            41.2319387
+          ],
+          [
+            1.7370514,
+            41.2320504
+          ],
+          [
+            1.7372954,
+            41.2321378
+          ],
+          [
+            1.7375004,
+            41.2322149
+          ],
+          [
+            1.7380773,
+            41.2324282
+          ],
+          [
+            1.7386513,
+            41.2326349
+          ],
+          [
+            1.7388898,
+            41.232718
+          ],
+          [
+            1.7391126,
+            41.2328056
+          ],
+          [
+            1.7397214,
+            41.2330288
+          ],
+          [
+            1.739961,
+            41.2331133
+          ],
+          [
+            1.7401846,
+            41.2331948
+          ],
+          [
+            1.7410843,
+            41.2335222
+          ],
+          [
+            1.7412883,
+            41.2336007
+          ]
+        ]
+      },
+      "id": "way/115677999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118691923",
+        "highway": "residential",
+        "lanes": 1,
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7386731,
+            41.234959
+          ],
+          [
+            1.7389771,
+            41.2350606
+          ],
+          [
+            1.7398817,
+            41.2353578
+          ],
+          [
+            1.740092,
+            41.2354269
+          ]
+        ]
+      },
+      "id": "way/118691923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119181425",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla Arnau de Vilanova",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7074961,
+            41.2203143
+          ],
+          [
+            1.7074408,
+            41.2202706
+          ],
+          [
+            1.7073867,
+            41.2202279
+          ],
+          [
+            1.7082129,
+            41.2198244
+          ],
+          [
+            1.7082864,
+            41.2197926
+          ],
+          [
+            1.7092448,
+            41.2193775
+          ],
+          [
+            1.7093823,
+            41.219324
+          ],
+          [
+            1.7094325,
+            41.2192929
+          ],
+          [
+            1.7095435,
+            41.2192526
+          ],
+          [
+            1.7097086,
+            41.219155
+          ],
+          [
+            1.7098477,
+            41.2190716
+          ],
+          [
+            1.7099225,
+            41.2189956
+          ]
+        ]
+      },
+      "id": "way/119181425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119196029",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Sant Onofre",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7146468,
+            41.223636
+          ],
+          [
+            1.7147327,
+            41.2236543
+          ],
+          [
+            1.7151516,
+            41.2237798
+          ],
+          [
+            1.7151868,
+            41.2237923
+          ],
+          [
+            1.7152619,
+            41.2238023
+          ]
+        ]
+      },
+      "id": "way/119196029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119205455",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda de la Mar Mediterrània",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7178259,
+            41.21368
+          ],
+          [
+            1.7178082,
+            41.2136036
+          ],
+          [
+            1.7177352,
+            41.2133013
+          ],
+          [
+            1.7176588,
+            41.2130338
+          ],
+          [
+            1.7176389,
+            41.2129091
+          ],
+          [
+            1.7176076,
+            41.2127031
+          ]
+        ]
+      },
+      "id": "way/119205455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119207328",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "carrer de la Masia d'en Dimes",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7106215,
+            41.2169715
+          ],
+          [
+            1.7101981,
+            41.2173527
+          ],
+          [
+            1.709802,
+            41.2177139
+          ],
+          [
+            1.7094048,
+            41.2180473
+          ],
+          [
+            1.7089639,
+            41.2184323
+          ]
+        ]
+      },
+      "id": "way/119207328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150993102",
+        "highway": "residential",
+        "name": "Carrer dels Estornells",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7026129,
+            41.213727
+          ],
+          [
+            1.7019283,
+            41.2140098
+          ],
+          [
+            1.7017105,
+            41.2139545
+          ],
+          [
+            1.7010746,
+            41.2136279
+          ],
+          [
+            1.6998768,
+            41.213251
+          ]
+        ]
+      },
+      "id": "way/150993102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150994841",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "carrer de Cunit",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7101981,
+            41.2173527
+          ],
+          [
+            1.7102403,
+            41.2173843
+          ],
+          [
+            1.7107378,
+            41.2177195
+          ],
+          [
+            1.7111253,
+            41.217971
+          ]
+        ]
+      },
+      "id": "way/150994841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151002534",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Soler i Morell",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7254184,
+            41.2185848
+          ],
+          [
+            1.7260097,
+            41.2187514
+          ],
+          [
+            1.7267376,
+            41.2189577
+          ]
+        ]
+      },
+      "id": "way/151002534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151003696",
+        "highway": "residential",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Àncora",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7307404,
+            41.2192718
+          ],
+          [
+            1.7309527,
+            41.2193262
+          ],
+          [
+            1.7314815,
+            41.2194664
+          ],
+          [
+            1.7324348,
+            41.219761
+          ],
+          [
+            1.7325267,
+            41.2197879
+          ],
+          [
+            1.7326364,
+            41.2198212
+          ],
+          [
+            1.7327867,
+            41.2198636
+          ],
+          [
+            1.73294,
+            41.2198634
+          ],
+          [
+            1.7330458,
+            41.2198534
+          ],
+          [
+            1.7331181,
+            41.2198066
+          ],
+          [
+            1.7333086,
+            41.2195135
+          ],
+          [
+            1.7335196,
+            41.2191924
+          ],
+          [
+            1.7336268,
+            41.2190474
+          ],
+          [
+            1.7337043,
+            41.2189971
+          ],
+          [
+            1.7337936,
+            41.2189607
+          ],
+          [
+            1.734056,
+            41.2188581
+          ],
+          [
+            1.7342263,
+            41.2187508
+          ],
+          [
+            1.734403,
+            41.2185678
+          ],
+          [
+            1.7344793,
+            41.2185091
+          ],
+          [
+            1.7345788,
+            41.2184592
+          ],
+          [
+            1.735507,
+            41.2182391
+          ],
+          [
+            1.7355631,
+            41.2182264
+          ]
+        ]
+      },
+      "id": "way/151003696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151040899",
+        "highway": "residential",
+        "lanes:forward": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Panxo Ferrer",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through|through",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7420723,
+            41.2259817
+          ],
+          [
+            1.7409143,
+            41.2252927
+          ]
+        ]
+      },
+      "id": "way/151040899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151043664",
+        "highway": "residential",
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Vicent Andrés Estellés",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7427106,
+            41.2242774
+          ],
+          [
+            1.7430424,
+            41.2242655
+          ],
+          [
+            1.7436425,
+            41.2242085
+          ],
+          [
+            1.7444873,
+            41.2240979
+          ],
+          [
+            1.7445677,
+            41.2240871
+          ],
+          [
+            1.7446541,
+            41.2240754
+          ]
+        ]
+      },
+      "id": "way/151043664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151053244",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Parlament",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7250211,
+            41.2205002
+          ],
+          [
+            1.725053,
+            41.2204444
+          ],
+          [
+            1.7253395,
+            41.2199724
+          ],
+          [
+            1.72574,
+            41.2192326
+          ],
+          [
+            1.7260097,
+            41.2187514
+          ]
+        ]
+      },
+      "id": "way/151053244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151061265",
+        "highway": "residential",
+        "lanes": 1,
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7359019,
+            41.2341056
+          ],
+          [
+            1.7363468,
+            41.2340724
+          ],
+          [
+            1.7364936,
+            41.2340738
+          ],
+          [
+            1.7368233,
+            41.2340953
+          ],
+          [
+            1.7369945,
+            41.2341164
+          ],
+          [
+            1.7371754,
+            41.2341467
+          ],
+          [
+            1.7375641,
+            41.2342463
+          ],
+          [
+            1.7377676,
+            41.2343181
+          ],
+          [
+            1.7379788,
+            41.2344054
+          ],
+          [
+            1.7382478,
+            41.234543
+          ],
+          [
+            1.738506,
+            41.2347069
+          ],
+          [
+            1.7387118,
+            41.2348544
+          ]
+        ]
+      },
+      "id": "way/151061265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151061267",
+        "highway": "residential",
+        "lanes": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Fita",
+        "oneway": "no",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7410996,
+            41.2278719
+          ],
+          [
+            1.7411238,
+            41.2279586
+          ],
+          [
+            1.7409047,
+            41.2287657
+          ],
+          [
+            1.740674,
+            41.2295711
+          ],
+          [
+            1.7405721,
+            41.2297118
+          ],
+          [
+            1.7405171,
+            41.2298465
+          ],
+          [
+            1.7404744,
+            41.2299339
+          ],
+          [
+            1.7402537,
+            41.2303514
+          ],
+          [
+            1.7400592,
+            41.2307195
+          ]
+        ]
+      },
+      "id": "way/151061267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158090555",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:lane:right": "parallel",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7136515,
+            41.2258599
+          ],
+          [
+            1.7140832,
+            41.2260636
+          ],
+          [
+            1.7141667,
+            41.2261036
+          ],
+          [
+            1.714233,
+            41.2261362
+          ]
+        ]
+      },
+      "id": "way/158090555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161493438",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer d'Olèrdola",
+        "parking:condition:both": "free",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7127187,
+            41.2188809
+          ],
+          [
+            1.7126374,
+            41.2188579
+          ],
+          [
+            1.7126007,
+            41.2188506
+          ],
+          [
+            1.7119586,
+            41.2186475
+          ]
+        ]
+      },
+      "id": "way/161493438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161493568",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7193368,
+            41.2199529
+          ],
+          [
+            1.7185633,
+            41.2197347
+          ],
+          [
+            1.7180008,
+            41.2195703
+          ],
+          [
+            1.7177249,
+            41.2194945
+          ],
+          [
+            1.7177072,
+            41.2194905
+          ],
+          [
+            1.71769,
+            41.2194849
+          ],
+          [
+            1.7176324,
+            41.2194688
+          ],
+          [
+            1.7175505,
+            41.2194442
+          ],
+          [
+            1.7175263,
+            41.2194378
+          ],
+          [
+            1.7175135,
+            41.219434
+          ],
+          [
+            1.7174621,
+            41.2194193
+          ],
+          [
+            1.7173736,
+            41.2193923
+          ],
+          [
+            1.7173154,
+            41.2193787
+          ],
+          [
+            1.7167246,
+            41.2192006
+          ],
+          [
+            1.7166739,
+            41.2191853
+          ],
+          [
+            1.7165483,
+            41.219151
+          ],
+          [
+            1.7165317,
+            41.2191452
+          ]
+        ]
+      },
+      "id": "way/161493568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/170792749",
+        "highway": "residential",
+        "lanes": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Pare Garí",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7198654,
+            41.2246942
+          ],
+          [
+            1.7197736,
+            41.2247946
+          ],
+          [
+            1.7197433,
+            41.2248245
+          ],
+          [
+            1.7194899,
+            41.2250861
+          ],
+          [
+            1.7189731,
+            41.2255559
+          ],
+          [
+            1.7188183,
+            41.2256966
+          ],
+          [
+            1.7187839,
+            41.2257276
+          ],
+          [
+            1.7186717,
+            41.2258276
+          ]
+        ]
+      },
+      "id": "way/170792749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225400500",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7087714,
+            41.2159624
+          ],
+          [
+            1.7085078,
+            41.2158055
+          ],
+          [
+            1.7079741,
+            41.2155296
+          ],
+          [
+            1.7078926,
+            41.2154837
+          ]
+        ]
+      },
+      "id": "way/225400500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231965059",
+        "highway": "tertiary",
+        "lanes": 2,
+        "name": "Carrer del Doctor Zamenhof",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7130379,
+            41.2183374
+          ],
+          [
+            1.7127569,
+            41.2188137
+          ],
+          [
+            1.7127187,
+            41.2188809
+          ]
+        ]
+      },
+      "id": "way/231965059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238076517",
+        "highway": "residential",
+        "lanes": 2,
+        "lanes:backward": 0,
+        "lanes:forward": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7193663,
+            41.2198813
+          ],
+          [
+            1.718867,
+            41.2197357
+          ],
+          [
+            1.7187769,
+            41.2197098
+          ]
+        ]
+      },
+      "id": "way/238076517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238076521",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7165317,
+            41.2191452
+          ],
+          [
+            1.7163796,
+            41.2190963
+          ],
+          [
+            1.7162779,
+            41.2190648
+          ]
+        ]
+      },
+      "id": "way/238076521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238081446",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "oneway": "yes",
+        "parking:condition:left": "customers",
+        "parking:condition:right": "free",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7208745,
+            41.2203141
+          ],
+          [
+            1.7207515,
+            41.2202786
+          ],
+          [
+            1.7203747,
+            41.2201678
+          ]
+        ]
+      },
+      "id": "way/238081446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260678346",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de l'Aragai",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7010355,
+            41.213021
+          ],
+          [
+            1.7013573,
+            41.2131057
+          ],
+          [
+            1.7017758,
+            41.2132873
+          ],
+          [
+            1.7019695,
+            41.2133873
+          ],
+          [
+            1.7022371,
+            41.2135254
+          ],
+          [
+            1.7026129,
+            41.213727
+          ],
+          [
+            1.7027068,
+            41.2137774
+          ],
+          [
+            1.7030042,
+            41.213937
+          ],
+          [
+            1.7034334,
+            41.2141872
+          ],
+          [
+            1.7042059,
+            41.2146714
+          ],
+          [
+            1.7049676,
+            41.2151597
+          ],
+          [
+            1.7051983,
+            41.2153292
+          ],
+          [
+            1.7056542,
+            41.2157973
+          ],
+          [
+            1.7057352,
+            41.2159842
+          ],
+          [
+            1.7068881,
+            41.2165963
+          ]
+        ]
+      },
+      "id": "way/260678346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261320655",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:lane:right": "parallel",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.714233,
+            41.2261362
+          ],
+          [
+            1.7143455,
+            41.2261884
+          ],
+          [
+            1.7147475,
+            41.2263884
+          ]
+        ]
+      },
+      "id": "way/261320655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261320656",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:lane:right": "parallel",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7147475,
+            41.2263884
+          ],
+          [
+            1.7148224,
+            41.226425
+          ],
+          [
+            1.7148787,
+            41.2264526
+          ],
+          [
+            1.7149044,
+            41.2265351
+          ]
+        ]
+      },
+      "id": "way/261320656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261770700",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Francesc Macià",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "left",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7114697,
+            41.2202218
+          ],
+          [
+            1.7118727,
+            41.2195509
+          ]
+        ]
+      },
+      "id": "way/261770700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270253886",
+        "highway": "service",
+        "lanes": 1,
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7325954,
+            41.2309545
+          ],
+          [
+            1.7324983,
+            41.2310137
+          ],
+          [
+            1.7318936,
+            41.2309464
+          ],
+          [
+            1.7317028,
+            41.2309253
+          ],
+          [
+            1.7316711,
+            41.2309085
+          ]
+        ]
+      },
+      "id": "way/270253886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275199475",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Pere Jacas",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7245564,
+            41.2162387
+          ],
+          [
+            1.7255464,
+            41.2165139
+          ],
+          [
+            1.7261352,
+            41.2166829
+          ],
+          [
+            1.7263186,
+            41.2167326
+          ],
+          [
+            1.7263456,
+            41.2167414
+          ],
+          [
+            1.7265133,
+            41.2167828
+          ],
+          [
+            1.7265924,
+            41.2168098
+          ],
+          [
+            1.7269866,
+            41.2169314
+          ],
+          [
+            1.7270319,
+            41.2169477
+          ],
+          [
+            1.7277486,
+            41.217151
+          ]
+        ]
+      },
+      "id": "way/275199475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275199482",
+        "highway": "residential",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Àncora",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7301128,
+            41.2191204
+          ],
+          [
+            1.7307404,
+            41.2192718
+          ]
+        ]
+      },
+      "id": "way/275199482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275199486",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Forn del Vidre",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7284195,
+            41.2200836
+          ],
+          [
+            1.7284758,
+            41.2200986
+          ],
+          [
+            1.72876,
+            41.2201817
+          ],
+          [
+            1.7295882,
+            41.2204434
+          ]
+        ]
+      },
+      "id": "way/275199486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275211280",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Unió",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.728442,
+            41.2235981
+          ],
+          [
+            1.7284525,
+            41.22408
+          ],
+          [
+            1.7284054,
+            41.2243491
+          ],
+          [
+            1.7282865,
+            41.2245579
+          ],
+          [
+            1.7281634,
+            41.2247359
+          ],
+          [
+            1.7277624,
+            41.2250538
+          ],
+          [
+            1.7274052,
+            41.2253489
+          ],
+          [
+            1.7271351,
+            41.2259368
+          ],
+          [
+            1.72709,
+            41.2261558
+          ],
+          [
+            1.7271075,
+            41.2265658
+          ],
+          [
+            1.7271119,
+            41.2267
+          ]
+        ]
+      },
+      "id": "way/275211280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275214285",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Vilanoveta",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7393379,
+            41.2317721
+          ],
+          [
+            1.739407,
+            41.2317591
+          ],
+          [
+            1.7395074,
+            41.2317272
+          ],
+          [
+            1.7395764,
+            41.2317095
+          ]
+        ]
+      },
+      "id": "way/275214285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275214288",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "surface": "paved",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7388472,
+            41.2327862
+          ],
+          [
+            1.7386126,
+            41.232698
+          ],
+          [
+            1.737465,
+            41.2322814
+          ],
+          [
+            1.7372429,
+            41.2321979
+          ],
+          [
+            1.7370089,
+            41.2321143
+          ],
+          [
+            1.7369593,
+            41.2320939
+          ],
+          [
+            1.7366987,
+            41.232001
+          ],
+          [
+            1.7365054,
+            41.2319344
+          ],
+          [
+            1.7364512,
+            41.2319306
+          ],
+          [
+            1.7363672,
+            41.2319255
+          ]
+        ]
+      },
+      "id": "way/275214288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275218421",
+        "change:lanes:backward": "no",
+        "change:lanes:forward": "no",
+        "highway": "tertiary",
+        "lanes": 2,
+        "name": "Carrer del Doctor Zamenhof",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 14
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.710101,
+            41.2227735
+          ],
+          [
+            1.7100613,
+            41.2228213
+          ],
+          [
+            1.7100424,
+            41.2228402
+          ],
+          [
+            1.709937,
+            41.2229708
+          ],
+          [
+            1.7097125,
+            41.2232587
+          ],
+          [
+            1.7093909,
+            41.2236873
+          ],
+          [
+            1.7093357,
+            41.2237542
+          ]
+        ]
+      },
+      "id": "way/275218421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277257865",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla de Sant Jordi",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7323526,
+            41.225629
+          ],
+          [
+            1.7321843,
+            41.2258485
+          ],
+          [
+            1.7321367,
+            41.2258965
+          ],
+          [
+            1.7317486,
+            41.2262886
+          ],
+          [
+            1.7316537,
+            41.2264432
+          ],
+          [
+            1.7311887,
+            41.2272005
+          ],
+          [
+            1.730798,
+            41.2278409
+          ],
+          [
+            1.7307161,
+            41.2280374
+          ],
+          [
+            1.7303911,
+            41.2288169
+          ],
+          [
+            1.7301691,
+            41.2293049
+          ],
+          [
+            1.7299471,
+            41.2299059
+          ],
+          [
+            1.7299154,
+            41.2299919
+          ],
+          [
+            1.7298207,
+            41.2302388
+          ],
+          [
+            1.7298019,
+            41.2303395
+          ],
+          [
+            1.7298019,
+            41.2303678
+          ],
+          [
+            1.7297995,
+            41.2303943
+          ],
+          [
+            1.7298019,
+            41.2304332
+          ],
+          [
+            1.7297916,
+            41.2304943
+          ]
+        ]
+      },
+      "id": "way/277257865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277548692",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Jaume Balmes",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "service": "driveway",
+        "sidewalk": "both",
+        "turn:lanes:forward": "left",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.72064,
+            41.2195491
+          ],
+          [
+            1.7207572,
+            41.2195325
+          ],
+          [
+            1.720783,
+            41.2195482
+          ],
+          [
+            1.7208584,
+            41.2195918
+          ]
+        ]
+      },
+      "id": "way/277548692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279096008",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Ponent",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7145901,
+            41.2120421
+          ],
+          [
+            1.7146374,
+            41.2119598
+          ],
+          [
+            1.7146652,
+            41.2119093
+          ],
+          [
+            1.7146761,
+            41.2118595
+          ]
+        ]
+      },
+      "id": "way/279096008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279096010",
+        "highway": "tertiary",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7151356,
+            41.2118121
+          ],
+          [
+            1.7149969,
+            41.2118168
+          ],
+          [
+            1.7148637,
+            41.211839
+          ]
+        ]
+      },
+      "id": "way/279096010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279096016",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7152305,
+            41.2118386
+          ],
+          [
+            1.715185,
+            41.2118269
+          ],
+          [
+            1.7151356,
+            41.2118121
+          ]
+        ]
+      },
+      "id": "way/279096016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279096020",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 16
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7171196,
+            41.2124071
+          ],
+          [
+            1.716813,
+            41.2123138
+          ],
+          [
+            1.7159566,
+            41.2120542
+          ],
+          [
+            1.7152305,
+            41.2118386
+          ]
+        ]
+      },
+      "id": "way/279096020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279096039",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "lanes": 1,
+        "lit": "yes",
+        "name": "Plaça d'Adarró",
+        "parking:condition:right": "ticket",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7146761,
+            41.2118595
+          ],
+          [
+            1.7146569,
+            41.2118351
+          ],
+          [
+            1.7146498,
+            41.2118073
+          ],
+          [
+            1.7146556,
+            41.2117793
+          ]
+        ]
+      },
+      "id": "way/279096039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100969",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7227884,
+            41.213758
+          ],
+          [
+            1.7227052,
+            41.2137361
+          ]
+        ]
+      },
+      "id": "way/279100969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100970",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7219293,
+            41.2135161
+          ],
+          [
+            1.7219002,
+            41.2135058
+          ]
+        ]
+      },
+      "id": "way/279100970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100971",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7233591,
+            41.2139178
+          ],
+          [
+            1.7227884,
+            41.213758
+          ]
+        ]
+      },
+      "id": "way/279100971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100972",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7182143,
+            41.2126382
+          ],
+          [
+            1.717972,
+            41.2126047
+          ]
+        ]
+      },
+      "id": "way/279100972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100973",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7227052,
+            41.2137361
+          ],
+          [
+            1.7222789,
+            41.2136197
+          ],
+          [
+            1.7219293,
+            41.2135161
+          ]
+        ]
+      },
+      "id": "way/279100973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100975",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.717406,
+            41.2124956
+          ],
+          [
+            1.7172771,
+            41.2124447
+          ],
+          [
+            1.7171196,
+            41.2124071
+          ]
+        ]
+      },
+      "id": "way/279100975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100976",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7196827,
+            41.2128754
+          ],
+          [
+            1.7193237,
+            41.2128014
+          ],
+          [
+            1.7189904,
+            41.2127534
+          ],
+          [
+            1.7182143,
+            41.2126382
+          ]
+        ]
+      },
+      "id": "way/279100976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279100978",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7219002,
+            41.2135058
+          ],
+          [
+            1.7211721,
+            41.2132587
+          ],
+          [
+            1.7205662,
+            41.2130912
+          ],
+          [
+            1.7203638,
+            41.2130328
+          ],
+          [
+            1.7203004,
+            41.2130193
+          ]
+        ]
+      },
+      "id": "way/279100978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279107747",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Juan Sebastian Elcano",
+        "oneway": "yes",
+        "parking:condition:both": "free",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7201139,
+            41.2144852
+          ],
+          [
+            1.7200411,
+            41.2145482
+          ],
+          [
+            1.7196978,
+            41.2148594
+          ],
+          [
+            1.7197047,
+            41.2148932
+          ]
+        ]
+      },
+      "id": "way/279107747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279165455",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Josep Anselm Calvè",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7246753,
+            41.2197582
+          ],
+          [
+            1.7253395,
+            41.2199724
+          ],
+          [
+            1.7260927,
+            41.2202044
+          ]
+        ]
+      },
+      "id": "way/279165455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279330159",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de l'Any dels Negats",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7231285,
+            41.2171346
+          ],
+          [
+            1.723106,
+            41.2171847
+          ],
+          [
+            1.7230673,
+            41.2172709
+          ],
+          [
+            1.7229274,
+            41.2175501
+          ],
+          [
+            1.72295,
+            41.2176329
+          ],
+          [
+            1.7230066,
+            41.21767
+          ],
+          [
+            1.7233377,
+            41.2177729
+          ],
+          [
+            1.7235835,
+            41.2178441
+          ],
+          [
+            1.7239599,
+            41.2179532
+          ],
+          [
+            1.7244586,
+            41.2180994
+          ],
+          [
+            1.7249265,
+            41.2182332
+          ],
+          [
+            1.7254068,
+            41.2183755
+          ],
+          [
+            1.7255374,
+            41.2184188
+          ],
+          [
+            1.7258891,
+            41.2185202
+          ],
+          [
+            1.7264135,
+            41.2186687
+          ],
+          [
+            1.7268609,
+            41.2188002
+          ],
+          [
+            1.7271622,
+            41.2188868
+          ],
+          [
+            1.7274119,
+            41.2189631
+          ],
+          [
+            1.727459,
+            41.2189802
+          ]
+        ]
+      },
+      "id": "way/279330159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279441783",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "carrer de la Boia",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7277599,
+            41.2184103
+          ],
+          [
+            1.7276754,
+            41.2183882
+          ],
+          [
+            1.7273965,
+            41.2183151
+          ],
+          [
+            1.7264765,
+            41.2180492
+          ],
+          [
+            1.7259736,
+            41.2179022
+          ],
+          [
+            1.7258889,
+            41.2178797
+          ],
+          [
+            1.7245282,
+            41.2174742
+          ],
+          [
+            1.7240626,
+            41.2173347
+          ],
+          [
+            1.7239344,
+            41.2172972
+          ],
+          [
+            1.7235041,
+            41.2171706
+          ],
+          [
+            1.7234116,
+            41.2171446
+          ]
+        ]
+      },
+      "id": "way/279441783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279462911",
+        "change:lanes:backward": "yes",
+        "change:lanes:forward": "yes",
+        "highway": "tertiary",
+        "lanes:backward": 1,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Maritim de Ribes Roges",
+        "oneway": "no",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 15
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7246193,
+            41.2143758
+          ],
+          [
+            1.7242677,
+            41.2142388
+          ],
+          [
+            1.724145,
+            41.2141923
+          ],
+          [
+            1.7235633,
+            41.2139752
+          ],
+          [
+            1.7234513,
+            41.2139415
+          ],
+          [
+            1.7233591,
+            41.2139178
+          ]
+        ]
+      },
+      "id": "way/279462911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/279477612",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Rambla de Joan Baptista Pirelli",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7265133,
+            41.2167828
+          ],
+          [
+            1.7265568,
+            41.2167249
+          ],
+          [
+            1.7265688,
+            41.2167113
+          ],
+          [
+            1.7268705,
+            41.2162531
+          ],
+          [
+            1.727389,
+            41.2153475
+          ],
+          [
+            1.7274052,
+            41.2153185
+          ]
+        ]
+      },
+      "id": "way/279477612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/280976070",
+        "highway": "tertiary",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig Marítim",
+        "oneway": "yes",
+        "parking:condition:both": "ticket",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7347224,
+            41.2171162
+          ],
+          [
+            1.7337167,
+            41.2167349
+          ],
+          [
+            1.733596,
+            41.2166938
+          ],
+          [
+            1.7334312,
+            41.2166306
+          ]
+        ]
+      },
+      "id": "way/280976070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281458902",
+        "highway": "service",
+        "lanes": 1,
+        "parking:condition:both": "free",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "service": "parking_aisle",
+        "width": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7336184,
+            41.2188771
+          ],
+          [
+            1.7337476,
+            41.2188434
+          ],
+          [
+            1.7338587,
+            41.2188128
+          ],
+          [
+            1.7339559,
+            41.2187702
+          ],
+          [
+            1.7340361,
+            41.2187269
+          ],
+          [
+            1.7341044,
+            41.2186803
+          ],
+          [
+            1.7342145,
+            41.2185782
+          ],
+          [
+            1.7342882,
+            41.2184866
+          ],
+          [
+            1.734332,
+            41.2184135
+          ]
+        ]
+      },
+      "id": "way/281458902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281688801",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Pujada del far de Sant Cristòfol",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "source": "survey",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7389308,
+            41.2176892
+          ],
+          [
+            1.739002,
+            41.2177056
+          ],
+          [
+            1.7392784,
+            41.2177762
+          ],
+          [
+            1.7394996,
+            41.2178622
+          ],
+          [
+            1.739661,
+            41.2179883
+          ],
+          [
+            1.7398161,
+            41.2181126
+          ],
+          [
+            1.739995,
+            41.21824
+          ]
+        ]
+      },
+      "id": "way/281688801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283175134",
+        "highway": "residential",
+        "lanes:forward": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Panxo Ferrer",
+        "oneway": "yes",
+        "parking:condition:both": "free",
+        "parking:condition:right": "free",
+        "parking:lane:both": "parallel",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "merge_to_right|through",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7409143,
+            41.2252927
+          ],
+          [
+            1.740699,
+            41.2251627
+          ],
+          [
+            1.7405542,
+            41.2250981
+          ],
+          [
+            1.7404591,
+            41.2250832
+          ]
+        ]
+      },
+      "id": "way/283175134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283175135",
+        "highway": "residential",
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Panxo Ferrer",
+        "oneway": "yes",
+        "parking:condition:both": "free",
+        "parking:condition:right": "free",
+        "parking:lane:both": "parallel",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7404591,
+            41.2250832
+          ],
+          [
+            1.7403663,
+            41.2250763
+          ],
+          [
+            1.7402945,
+            41.2250893
+          ],
+          [
+            1.7401735,
+            41.2251193
+          ]
+        ]
+      },
+      "id": "way/283175135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283190408",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passeig de la Fita",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "turn:lanes:forward": "left|right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7424389,
+            41.2257807
+          ],
+          [
+            1.7422489,
+            41.2260125
+          ]
+        ]
+      },
+      "id": "way/283190408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283536937",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda del Garraf",
+        "parking:condition:right": "free",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7317473,
+            41.2241693
+          ],
+          [
+            1.7318341,
+            41.2242465
+          ],
+          [
+            1.7320021,
+            41.2243826
+          ],
+          [
+            1.7323844,
+            41.2246991
+          ],
+          [
+            1.7325292,
+            41.2248157
+          ],
+          [
+            1.7325662,
+            41.2248482
+          ]
+        ]
+      },
+      "id": "way/283536937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284927924",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Pare Garí",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7231721,
+            41.2202561
+          ],
+          [
+            1.7231708,
+            41.2202981
+          ],
+          [
+            1.723042,
+            41.2204684
+          ],
+          [
+            1.7229428,
+            41.2205773
+          ]
+        ]
+      },
+      "id": "way/284927924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284927925",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Pare Garí",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7229428,
+            41.2205773
+          ],
+          [
+            1.7227871,
+            41.2207349
+          ],
+          [
+            1.722725,
+            41.220794
+          ],
+          [
+            1.7226575,
+            41.2208539
+          ]
+        ]
+      },
+      "id": "way/284927925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284930524",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Avinguda de Cubelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "service": "driveway",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7170774,
+            41.2191127
+          ],
+          [
+            1.7171698,
+            41.2191401
+          ],
+          [
+            1.7172999,
+            41.2191792
+          ],
+          [
+            1.7174124,
+            41.2192094
+          ],
+          [
+            1.7187499,
+            41.2196126
+          ],
+          [
+            1.7187881,
+            41.2196197
+          ],
+          [
+            1.7188337,
+            41.2196289
+          ],
+          [
+            1.7188753,
+            41.2196353
+          ],
+          [
+            1.7193699,
+            41.2196907
+          ],
+          [
+            1.7194706,
+            41.2196952
+          ]
+        ]
+      },
+      "id": "way/284930524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307417675",
+        "highway": "residential",
+        "name": "Avinguda de l'Aragai",
+        "oneway": "no",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6994423,
+            41.2137433
+          ],
+          [
+            1.6995495,
+            41.2135536
+          ],
+          [
+            1.6996676,
+            41.2134084
+          ],
+          [
+            1.6997641,
+            41.2133236
+          ],
+          [
+            1.6998768,
+            41.213251
+          ],
+          [
+            1.7000323,
+            41.2131622
+          ],
+          [
+            1.7002147,
+            41.2130896
+          ],
+          [
+            1.7005634,
+            41.2130169
+          ],
+          [
+            1.7008009,
+            41.213019
+          ],
+          [
+            1.7009762,
+            41.2130205
+          ],
+          [
+            1.7010355,
+            41.213021
+          ]
+        ]
+      },
+      "id": "way/307417675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307796194",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7168739,
+            41.2274006
+          ],
+          [
+            1.7169448,
+            41.227432
+          ]
+        ]
+      },
+      "id": "way/307796194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307796197",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda Ibèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7171298,
+            41.2275132
+          ],
+          [
+            1.717256,
+            41.2275683
+          ],
+          [
+            1.7180487,
+            41.2279021
+          ],
+          [
+            1.7181067,
+            41.2279249
+          ],
+          [
+            1.718168,
+            41.2279532
+          ],
+          [
+            1.7182336,
+            41.2280416
+          ]
+        ]
+      },
+      "id": "way/307796197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307939881",
+        "highway": "residential",
+        "lanes": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Raval de Santa Magdalena",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "left|through;right",
+        "width": 7
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7280828,
+            41.2299241
+          ],
+          [
+            1.7280045,
+            41.2301959
+          ]
+        ]
+      },
+      "id": "way/307939881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308112485",
+        "highway": "service",
+        "lanes": 1,
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7316711,
+            41.2309085
+          ],
+          [
+            1.7315148,
+            41.2308944
+          ],
+          [
+            1.7314761,
+            41.2309018
+          ]
+        ]
+      },
+      "id": "way/308112485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308112494",
+        "highway": "service",
+        "lanes": 1,
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7314761,
+            41.2309018
+          ],
+          [
+            1.7308436,
+            41.2308382
+          ],
+          [
+            1.7307882,
+            41.230833
+          ],
+          [
+            1.7307617,
+            41.2308263
+          ],
+          [
+            1.7307354,
+            41.2308061
+          ],
+          [
+            1.7306278,
+            41.2307484
+          ]
+        ]
+      },
+      "id": "way/308112494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308144733",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Marcel·lí Gené",
+        "oneway": "no",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.733896,
+            41.230848
+          ],
+          [
+            1.7337975,
+            41.2306016
+          ],
+          [
+            1.7337289,
+            41.2304094
+          ],
+          [
+            1.7337933,
+            41.2301996
+          ],
+          [
+            1.7339301,
+            41.230002
+          ],
+          [
+            1.7348501,
+            41.228938
+          ],
+          [
+            1.7354241,
+            41.2282854
+          ],
+          [
+            1.7358867,
+            41.2278834
+          ]
+        ]
+      },
+      "id": "way/308144733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308661937",
+        "highway": "residential",
+        "lanes": 1,
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7347663,
+            41.2341351
+          ],
+          [
+            1.7348433,
+            41.2341329
+          ],
+          [
+            1.7359019,
+            41.2341056
+          ]
+        ]
+      },
+      "id": "way/308661937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309496087",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Lateral Avinguda Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7410953,
+            41.2315078
+          ],
+          [
+            1.7402029,
+            41.2311051
+          ]
+        ]
+      },
+      "id": "way/309496087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309565857",
+        "highway": "residential",
+        "lanes": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de les Roquetes",
+        "oneway": "no",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7401092,
+            41.2274355
+          ],
+          [
+            1.7405801,
+            41.2275734
+          ],
+          [
+            1.7410996,
+            41.2278719
+          ]
+        ]
+      },
+      "id": "way/309565857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309578473",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:both": "no_stopping",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7386005,
+            41.2350542
+          ],
+          [
+            1.7385652,
+            41.2350771
+          ],
+          [
+            1.7384267,
+            41.2350987
+          ],
+          [
+            1.7382267,
+            41.235118
+          ],
+          [
+            1.7379604,
+            41.2351271
+          ],
+          [
+            1.7377033,
+            41.2351166
+          ],
+          [
+            1.737632,
+            41.2351137
+          ],
+          [
+            1.7373896,
+            41.2350864
+          ],
+          [
+            1.7373331,
+            41.23508
+          ],
+          [
+            1.7370328,
+            41.2350279
+          ],
+          [
+            1.7369222,
+            41.2349927
+          ],
+          [
+            1.7367238,
+            41.2349296
+          ],
+          [
+            1.7366892,
+            41.2349186
+          ],
+          [
+            1.7366358,
+            41.2348991
+          ],
+          [
+            1.7363721,
+            41.2348023
+          ],
+          [
+            1.7362831,
+            41.2347557
+          ],
+          [
+            1.7360179,
+            41.2346169
+          ],
+          [
+            1.7359049,
+            41.2345578
+          ],
+          [
+            1.7357489,
+            41.2344943
+          ],
+          [
+            1.7357107,
+            41.2344844
+          ],
+          [
+            1.7356231,
+            41.2344618
+          ],
+          [
+            1.7353976,
+            41.2344277
+          ],
+          [
+            1.7351753,
+            41.2344085
+          ],
+          [
+            1.7349945,
+            41.2343963
+          ],
+          [
+            1.7347335,
+            41.2343787
+          ],
+          [
+            1.7344908,
+            41.2343668
+          ],
+          [
+            1.7343485,
+            41.2343691
+          ],
+          [
+            1.73424,
+            41.2343824
+          ]
+        ]
+      },
+      "id": "way/309578473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309578474",
+        "highway": "residential",
+        "lanes": 1,
+        "name": "Rambla dels Països Catalans",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "no",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7387118,
+            41.2348544
+          ],
+          [
+            1.7386731,
+            41.234959
+          ],
+          [
+            1.7386005,
+            41.2350542
+          ]
+        ]
+      },
+      "id": "way/309578474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309618742",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Lateral Avinguda Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7396058,
+            41.2308434
+          ],
+          [
+            1.7393248,
+            41.2306866
+          ],
+          [
+            1.739161,
+            41.2305734
+          ],
+          [
+            1.7386948,
+            41.2301847
+          ],
+          [
+            1.7386347,
+            41.230119
+          ],
+          [
+            1.7386114,
+            41.230063
+          ]
+        ]
+      },
+      "id": "way/309618742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309618743",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Lateral Avinguda Eduard Toldrà",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right",
+        "width": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7402029,
+            41.2311051
+          ],
+          [
+            1.7401442,
+            41.2310977
+          ],
+          [
+            1.7400917,
+            41.2310955
+          ],
+          [
+            1.740013,
+            41.2311101
+          ],
+          [
+            1.7399889,
+            41.231053
+          ],
+          [
+            1.7399476,
+            41.231006
+          ],
+          [
+            1.7399108,
+            41.2309727
+          ]
+        ]
+      },
+      "id": "way/309618743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309663141",
+        "change:lanes:backward": "no",
+        "change:lanes:forward": "not_left|yes",
+        "highway": "residential",
+        "lanes:backward": 1,
+        "lanes:forward": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Josep Coroleu",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:backward": "through",
+        "turn:lanes:forward": "left|through",
+        "width": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7180071,
+            41.2235191
+          ],
+          [
+            1.7182247,
+            41.223269
+          ],
+          [
+            1.7182666,
+            41.2232178
+          ],
+          [
+            1.718325,
+            41.2231496
+          ]
+        ]
+      },
+      "id": "way/309663141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309663151",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Passatge del Trobador Cercamon",
+        "oneway": "no",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7158418,
+            41.2213624
+          ],
+          [
+            1.7162387,
+            41.221517
+          ]
+        ]
+      },
+      "id": "way/309663151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312653243",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer Castellet",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7173136,
+            41.2205167
+          ],
+          [
+            1.7169717,
+            41.2204761
+          ],
+          [
+            1.7169043,
+            41.2204656
+          ]
+        ]
+      },
+      "id": "way/312653243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312653246",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Canyelles",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7177663,
+            41.2203385
+          ],
+          [
+            1.7179371,
+            41.2199862
+          ]
+        ]
+      },
+      "id": "way/312653246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312653248",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Ramón y Cajal",
+        "oneway": "yes",
+        "parking:condition:both": "free",
+        "parking:lane:left": "perpendicular",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7179371,
+            41.2199862
+          ],
+          [
+            1.718495,
+            41.2201513
+          ]
+        ]
+      },
+      "id": "way/312653248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312653249",
+        "highway": "residential",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Ramón y Cajal",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.718495,
+            41.2201513
+          ],
+          [
+            1.7191485,
+            41.2203374
+          ]
+        ]
+      },
+      "id": "way/312653249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312671846",
+        "highway": "service",
+        "lanes": 1,
+        "lanes:backward": 0,
+        "lanes:forward": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "oneway": "yes",
+        "parking:condition:both": "free",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "service": "parking_aisle",
+        "sidewalk": "both",
+        "surface": "paved",
+        "width": 6
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7141118,
+            41.2194102
+          ],
+          [
+            1.7140571,
+            41.2194655
+          ],
+          [
+            1.7140123,
+            41.2195136
+          ],
+          [
+            1.7135678,
+            41.2193542
+          ],
+          [
+            1.7132863,
+            41.2192338
+          ],
+          [
+            1.7132774,
+            41.2191703
+          ],
+          [
+            1.7132828,
+            41.219155
+          ],
+          [
+            1.7133098,
+            41.2190787
+          ]
+        ]
+      },
+      "id": "way/312671846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312833165",
+        "highway": "residential",
+        "lanes": 2,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer del Pare Garí",
+        "oneway": "no",
+        "parking:condition:both": "free",
+        "parking:lane:left": "diagonal",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7186717,
+            41.2258276
+          ],
+          [
+            1.7184339,
+            41.2260394
+          ]
+        ]
+      },
+      "id": "way/312833165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312848005",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de la Unió",
+        "oneway": "yes",
+        "parking:condition:right": "ticket",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7284882,
+            41.2225955
+          ],
+          [
+            1.7284829,
+            41.2226931
+          ],
+          [
+            1.7284794,
+            41.2229866
+          ],
+          [
+            1.728442,
+            41.2235981
+          ]
+        ]
+      },
+      "id": "way/312848005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318309226",
+        "highway": "residential",
+        "lanes": 1,
+        "layer": 0,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Carrer de Magdalena Miró",
+        "oneway": -1,
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.7278596,
+            41.2198697
+          ],
+          [
+            1.7277851,
+            41.2199657
+          ],
+          [
+            1.7277632,
+            41.2200039
+          ],
+          [
+            1.727439,
+            41.2205949
+          ],
+          [
+            1.7271861,
+            41.2210753
+          ],
+          [
+            1.7271548,
+            41.2211347
+          ]
+        ]
+      },
+      "id": "way/318309226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437054498",
+        "highway": "residential",
+        "name": "Carrer del Colibrí",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6992277,
+            41.2147279
+          ],
+          [
+            1.7004129,
+            41.214829
+          ],
+          [
+            1.701003,
+            41.2147806
+          ],
+          [
+            1.7015609,
+            41.2147483
+          ]
+        ]
+      },
+      "id": "way/437054498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059098",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Plaça de la Forca",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6947982,
+            41.2173588
+          ],
+          [
+            1.6948036,
+            41.2173233
+          ],
+          [
+            1.6948019,
+            41.2172817
+          ]
+        ]
+      },
+      "id": "way/437059098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059099",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Plaça de la Forca",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6932798,
+            41.217446
+          ],
+          [
+            1.6933007,
+            41.2174867
+          ],
+          [
+            1.6933661,
+            41.2175491
+          ]
+        ]
+      },
+      "id": "way/437059099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059100",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Plaça de la Forca",
+        "oneway": "yes",
+        "parking:condition:left": "free",
+        "parking:condition:right": "free",
+        "parking:lane:left": "parallel",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6932186,
+            41.2172249
+          ],
+          [
+            1.6932238,
+            41.2173216
+          ],
+          [
+            1.6932379,
+            41.2173615
+          ],
+          [
+            1.6932798,
+            41.217446
+          ]
+        ]
+      },
+      "id": "way/437059100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059103",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda d'Amèrica",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "turn:lanes:forward": "through;right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6938396,
+            41.2172174
+          ],
+          [
+            1.6936244,
+            41.2172139
+          ]
+        ]
+      },
+      "id": "way/437059103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059105",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda d'Amèrica",
+        "oneway": "yes",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6921634,
+            41.2171774
+          ],
+          [
+            1.6916929,
+            41.2171681
+          ],
+          [
+            1.6915197,
+            41.2171619
+          ]
+        ]
+      },
+      "id": "way/437059105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059107",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda d'Amèrica",
+        "oneway": "yes",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6943999,
+            41.2172312
+          ],
+          [
+            1.6941841,
+            41.2172254
+          ],
+          [
+            1.6938396,
+            41.2172174
+          ]
+        ]
+      },
+      "id": "way/437059107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437059109",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "Ronda d'Amèrica",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_stopping",
+        "parking:lane:right": "parallel",
+        "sidewalk": "right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.6961429,
+            41.2170494
+          ],
+          [
+            1.6959472,
+            41.2171041
+          ],
+          [
+            1.6958243,
+            41.2171383
+          ],
+          [
+            1.6956239,
+            41.2171828
+          ],
+          [
+            1.6955808,
+            41.2171894
+          ]
+        ]
+      },
+      "id": "way/437059109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437068807",
+        "highway": "residential",
+        "lanes": 1,
+        "lit": "yes",
+        "maxspeed": 50,
+        "name": "carrer del riu Guadalquivir",
+        "oneway": "yes",
+        "parking:condition:right": "free",
+        "parking:lane:left": "no_parking",
+        "parking:lane:right": "parallel",
+        "sidewalk": "both",
+        "width": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.70516,
+            41.2228224
+          ],
+          [
+            1.7050701,
+            41.2229753
+          ]
+        ]
+      },
+      "id": "way/437068807"
+    }
+  ]
+}
